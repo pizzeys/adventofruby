@@ -9,7 +9,12 @@
 # The apartment building is very tall, and the basement is very deep; he will
 # never find the top or bottom floors.
 #
+# Part 1:
 # To what floor do the instructions take Santa?
+#
+# Part 2:
+# What is the position of the character that causes Santa to first enter the
+# basement?
 
 current_floor = 0
 first_enters_basement = nil
